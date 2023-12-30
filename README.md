@@ -5,8 +5,7 @@
 The Zerda Engine and Zerda Programming Language are labors of love made by a woman frustrated by over a decade of programming,
 satisfied by no language which she's tried as of writing.
 If you enjoy this engine or find it useful, please consider supporting my work!
-I live almost entirely off of a bowl or two of rice and frozen vegetables each day because I can't afford anything else.
-People are not meant to go hungry!! 🙁
+I live almost entirely off of a bowl or two of rice and frozen vegetables each day because I can't afford much else.
 
 Ways that you can contribute to my survival include:
 * [Subscribe to a paid engine license such as Pro or Studio](https://patreon.com/ashejuniper)
