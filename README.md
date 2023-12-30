@@ -4,17 +4,11 @@
 
 The Zerda Engine and Zerda Programming Language are labors of love made by a woman frustrated by over a decade of programming,
 satisfied by no language which she's tried as of writing.
-The programming language will have a pleasant, high-level syntax,
-as well as built-in performance-boosting features.
-The engine itself will be optimized for performance and will take advantage of hardware acceleration wherever possible.
-Lastly, I'm going to try something experimental and aim to make use of the Entity-Component-System (ECS) paradigm
-as opposed to the standard Object-Oriented Programming (OOP) paradigm.
-
 If you enjoy this engine or find it useful, please consider supporting my work!
-I live almost entirely off of rice and frozen vegetables because I can't afford anything more expensive.
-People are not meant to starve!!
+I live almost entirely off of a bowl or two of rice and frozen vegetables each day because I can't afford anything else.
+People are not meant to go hungry!! 🙁
 
-Ways you can help contribute to my survival include:
+Ways that you can contribute to my survival include:
 * [Subscribe to a paid engine license such as Pro or Studio](https://patreon.com/ashejuniper)
 * [Donate currency, or any gift cards that can be used to purchase food](https://patreon.com/ashejuniper)
 * Join our community on Discord
