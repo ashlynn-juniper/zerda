@@ -10,6 +10,17 @@ The engine itself will be optimized for performance and will take advantage of h
 Lastly, I'm going to try something experimental and aim to make use of the Entity-Component-System (ECS) paradigm
 as opposed to the standard Object-Oriented Programming (OOP) paradigm.
 
+If you enjoy this engine or find it useful, please consider supporting my work!
+I live almost entirely off of rice and frozen vegetables because I can't afford anything more expensive.
+People are not meant to starve!!
+
+Ways you can help contribute to my survival include:
+* [Subscribe to a paid engine license such as Pro or Studio](https://patreon.com/ashejuniper)
+* [Donate currency, or any gift cards that can be used to purchase food](https://patreon.com/ashejuniper)
+* Join our community on Discord
+* [Report bugs](https://github.com/toast-pigeon/zerda/issues)
+* [Suggest new features](https://github.com/toast-pigeon/zerda/issues)
+
 ## Design Goals
 
 Zerda is designed:
